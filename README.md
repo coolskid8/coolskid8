@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/coolskid8)
+![](https://komarev.com/ghpvc/?username=coolskid8)
